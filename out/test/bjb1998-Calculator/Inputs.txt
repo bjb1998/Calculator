@@ -1,0 +1,20 @@
+//Behold, Brandons Crappy Calculator Input Guide:
+//-----BEGINNING OF CALCULATIONS-----//
+Calculate Binary + 1000 10 //01010
+Calculate Binary - 1000 10 //0110
+Calculate Binary * 1000 10 //010000
+Calculate Binary / 1000 10 //0100
+Convert Binary to Decimal 0101010101 //341
+Convert Decimal to Binary 42 //00101010
+//------HEX
+Calculate Hexadecimal + C C //18
+Calculate Hexadecimal - 4A B //3F
+Calculate Hexadecimal * A F //96
+Calculate Hexadecimal / 4A 4 //12
+Convert Hexadecimal to Decimal F //15
+Convert Decimal to Hexadecimal 42 //2A
+//-----DATA
+Convert Data Unit to Gigabytes 50
+Calculate Download/Upload Time 500 Megabytes 500 Kbit/s //133 Minutes 20 seconds
+Calculate Website Bandwidth 5000 per day 500 Kilobytes 1.5 // 0.34722222222222 Mbits/s & 114.140625 GB per month
+Convert Monthly Usage to Bandwidth 500 Gigabytes //~1.521 Mbit/s
