@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e0a196c-4fcd-488c-905f-757dcdc7e849" name="Default Changelist" comment="" />
+    <list default="true" id="1e0a196c-4fcd-488c-905f-757dcdc7e849" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calculations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Inputs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HexCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HexCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iKvTA3qTYO9zOAabyVhBBR7dzT" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -27,7 +54,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Tests" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,9 +86,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HexCalcTest.isHex">
-    <configuration name="greetingTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greetingTemp" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="bjb1998-Calculator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,31 +102,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitrateCalcTest.calcUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bjb1998-Calculator" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BitrateCalcTest" />
-      <option name="METHOD_NAME" value="calcUpload" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BitrateCalcTest.calcWebsite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bjb1998-Calculator" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BitrateCalcTest" />
-      <option name="METHOD_NAME" value="calcWebsite" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HexCalcTest.isHex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HexCalcTest.calcResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bjb1998-Calculator" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
-      <option name="METHOD_NAME" value="isHex" />
+      <option name="METHOD_NAME" value="calcResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexCalcTest.toDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bjb1998-Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
+      <option name="METHOD_NAME" value="toDecimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexCalcTest.toHex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bjb1998-Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
+      <option name="METHOD_NAME" value="toHex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HexCalcTest.isHex" />
-        <item itemvalue="Application.greetingTemp" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in bjb1998-Calculator" />
-        <item itemvalue="JUnit.BitrateCalcTest.calcWebsite" />
-        <item itemvalue="JUnit.BitrateCalcTest.calcUpload" />
+        <item itemvalue="JUnit.HexCalcTest.calcResult" />
+        <item itemvalue="JUnit.HexCalcTest.toDecimal" />
+        <item itemvalue="JUnit.HexCalcTest.toHex" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +154,19 @@
       <updated>1601669102872</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

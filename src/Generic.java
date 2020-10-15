@@ -113,7 +113,7 @@ abstract class Generic {
     //-----BOOLEAN-----//
 
     /**@return boolean Determine if the string is a decimal number*/
-    private boolean isDecimal(String number){
+    boolean isDecimal(String number){
         for(int i = 0; i < number.length(); i++){
             char currentChar = number.charAt(i);
             if(Character.getNumericValue(currentChar) > 9){
@@ -121,11 +121,6 @@ abstract class Generic {
             }
         }
         return true;
-    }
-
-    /**@return boolean Determine if the string is a a negative Binary or Hex number*/
-    boolean isNegative(int n){
-        return n < 0;
     }
 
     boolean checkIfValidDecimalEquation(String[] inputs){
@@ -137,9 +132,5 @@ abstract class Generic {
         return (s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/"));
     }
 
-    /**@return If the string is negative, this is only partially used, not fully implemented :(*/
-    boolean isNegativeString(String s){
-        return s.charAt(0) == '-';
-    }
 
 }

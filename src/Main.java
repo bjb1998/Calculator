@@ -18,8 +18,6 @@ public class Main {
         mainMenu();
     }
 
-
-
     //Print the main menu, wait for the associated input
     private static void mainMenu() {
         /**This is the main menu

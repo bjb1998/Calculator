@@ -24,3 +24,9 @@ Output file created Successfully!
 Download/Upload time needed is: ~133 minutes 20 seconds
 The bandwidth needed is 0.35399543378995435 Mbit/s or 116.2875 GB per month
 500.0 (GIGABYTE) per month is equivalent to 1.5220700152207 MBIT/s
+147.825 (GIGABYTE) per month is equivalent to 450.0 KBIT/s
+Invalid input on I
+010
+Unknown Error
+Invalid input on BANANA
+Invalid Conversion Type on [CONVERT, MONTHLY, USAGE, TO, BANDWIDTH, !@#, GIGABYTES, BANANA, KBIT/S]

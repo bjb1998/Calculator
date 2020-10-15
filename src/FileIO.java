@@ -73,7 +73,6 @@ class FileIO{
         try {
             calcList = Files.readAllLines(Paths.get("Inputs.txt"), Charset.defaultCharset());
         } catch (IOException e) {
-            File calcInputs = new File("Inputs.txt");
             e.printStackTrace();
         }
 
@@ -147,10 +146,11 @@ class FileIO{
 
     //Get which type to convert to/from, and exec the corresponding method
     private void getConvFromType(PrintWriter pw, String[] currentInput, BinaryCalc bCalc, HexCalc hCalc, BitrateCalc bitCalc){
-        /**@param num1 Generic int entry depending on the conversion being done*/
+        /** @param num1 Generic int entry depending on the conversion being done
+         *  @param num2 Same as num1*/
         try {
             String unitInput = currentInput[1];
-            double num1;
+            double num1, num2;
             switch (unitInput) {
                 case "BINARY":
                     pw.println(bCalc.toDecimal(currentInput[4]));
@@ -170,9 +170,19 @@ class FileIO{
                     break;
                 case "MONTHLY":
                     num1 = Double.parseDouble(currentInput[5]);
-                    pw.println(bitCalc.calcHosting(true, num1,
-                            bitCalc.getSizeTypeFromString(currentInput[6]),
-                            0.0, BitrateCalcOverhead.speedType.MBIT));
+                    num2 = Double.parseDouble(currentInput[7]);
+
+                    //If num1 (The storage size) is 0, then it should calculate the speed to size, and vice-versa
+                    if((int)num1 == 0){
+                        pw.println(bitCalc.calcHosting(false, num1,
+                                bitCalc.getSizeTypeFromString(currentInput[6]),
+                                num2, bitCalc.getSpeedTypeFromString(currentInput[8])));
+                    }else{
+                        pw.println(bitCalc.calcHosting(true, num1,
+                                bitCalc.getSizeTypeFromString(currentInput[6]),
+                                num2, bitCalc.getSpeedTypeFromString(currentInput[8])));
+                    }
+
                     pw.flush();
                     break;
                 default:
@@ -195,7 +205,7 @@ class FileIO{
             int decimalNum = Integer.parseInt(currentInput[4]);
             switch (input) {
                 case "BINARY":
-                    pw.println(bCalc.toBinary(decimalNum, bCalc.isNegative(decimalNum)));
+                    pw.println(bCalc.toBinary(decimalNum));
                     pw.flush();
                     break;
                 case "HEXADECIMAL":

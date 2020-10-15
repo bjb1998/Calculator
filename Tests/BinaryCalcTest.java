@@ -14,13 +14,6 @@ class BinaryCalcTest {
     private BinaryCalc bCalc = new BinaryCalc();
 
     @Test
-    void isNegative() {
-        assertTrue(bCalc.isNegative(-1));
-        assertFalse(bCalc.isNegative(1));
-        assertFalse(bCalc.isNegative(0));
-    }
-
-    @Test
     void checkIfValidDecimalEquation() {
         assertTrue(bCalc.checkIfValidDecimalEquation(inputTestDecimal));
     }
@@ -35,14 +28,6 @@ class BinaryCalcTest {
         assertFalse(bCalc.isOperand("4"));
         assertFalse(bCalc.isOperand("fish"));
         assertFalse(bCalc.isOperand("!"));
-    }
-
-    @Test
-    void isNegativeString() {
-        assertTrue(bCalc.isNegativeString("-010101010100"));
-        assertTrue(bCalc.isNegativeString("-42"));
-        assertFalse(bCalc.isNegativeString("42"));
-        assertFalse(bCalc.isNegativeString("10101010101"));
     }
 
     @Test
@@ -65,8 +50,8 @@ class BinaryCalcTest {
 
     @Test
     void toBinary() {
-        assertEquals("01000", bCalc.toBinary(8, false));
-        assertEquals("01100", bCalc.toBinary(12, false));
+        assertEquals("01000", bCalc.toBinary(8));
+        assertEquals("01100", bCalc.toBinary(12));
     }
 
     @Test
@@ -78,7 +63,7 @@ class BinaryCalcTest {
     @Test
     void calcResult() {
         assertEquals("0110101010", bCalc.calcResult(inputTestBin[0], inputTestBin[1], inputTestBin[2]));
-        assertEquals("01100100", bCalc.calcResult(bCalc.toBinary(50, false), "+",
-                bCalc.toBinary(50, false)));
+        assertEquals("01100100", bCalc.calcResult(bCalc.toBinary(50), "+",
+                bCalc.toBinary(50)));
     }
 }
