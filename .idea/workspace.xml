@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0a196c-4fcd-488c-905f-757dcdc7e849" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calculations.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Inputs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/FileIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HexCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HexCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601669102872</updated>
     </task>
+    <task id="LOCAL-00001" summary="made less shit">
+      <created>1602739775277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602739775277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made less shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="made less shit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
