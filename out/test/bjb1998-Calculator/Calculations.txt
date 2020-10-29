@@ -1,0 +1,32 @@
+Output file created Successfully!
+01010
+0110
+010000
+0100
+0101010101
+0101010
+18
+3F
+96
+12
+15
+2A
+4.592E9 Bits (b)
+4592000.0 Kilobits(kb)
+4592.0 Megabits(mb)
+4.592 Gigabits(gb)
+0.004592 Terabits(gb)
+5.74E8 Bytes(B)
+574000.0 Kilobytes(KB)
+574.0 Megabytes(MB)
+0.574 Gigabytes(GB)
+5.74E-4 Terabytes(TB)
+Download/Upload time needed is: ~12 minutes 0 seconds
+The bandwidth needed is 0.573472602739726 Mbit/s or 188.38575 GB per month
+650.0 (GIGABYTE) per month is equivalent to 1.97869101978691 MEGABIT/s
+246.375 (GIGABYTE) per month is equivalent to 750.0 KILOBIT/s
+Invalid input on I
+Invalid Calculation Type on [CALCULATE, BINARY, +, FISH, 10]
+Invalid Operand
+Invalid input on BANANA
+Invalid Conversion Type on [CONVERT, MONTHLY, USAGE, TO, BANDWIDTH, !@#, GIGABYTES, BANANA, KBIT/S]

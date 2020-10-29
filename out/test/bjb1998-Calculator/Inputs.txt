@@ -14,8 +14,14 @@ Calculate Hexadecimal / 4A 4 //12
 Convert Hexadecimal to Decimal F //15
 Convert Decimal to Hexadecimal 42 //2A
 //-----DATA
-Convert Data Unit to Gigabytes 50
-Calculate Download/Upload Time 500 Megabytes 500 Kbit/s //133 Minutes 20 seconds
-Calculate Website Bandwidth 5000 per day 500 Kilobytes 1.5 // 0.34722222222222 Mbits/s & 114.140625 GB per month
-Convert Monthly Usage to Bandwidth 500 Gigabytes 0 Mbit/s //~1.521 Mbit/s
-Convert Monthly Usage to Bandwidth 0 Gigabytes 450 Kbit/s //~147.92625 GB
+Convert Data Unit to Megabytes 574
+Calculate Download/Upload Time 450 Megabytes 5 Mbit/s //12 minutes 0 seconds
+Calculate Website Bandwidth 4500 per day 750 Kilobytes 1.8 // 0.573472602739726 Mbit/s or 188.38575 GB per month
+Convert Monthly Usage to Bandwidth 650 Gigabytes 0 Mbit/s //1.9786 MEGABIT/s
+Convert Monthly Usage to Bandwidth 0 Gigabytes 750 Kbit/s //246.375 GB
+//-----GARBAGE TESTS
+I wanna add 4 and 4 in binary :)
+Calculate Binary + fish 10
+Calculate Hexadecimal banana C C
+Convert banana to Hexadecimal 42
+Convert Monthly Usage to Bandwidth !@# Gigabytes banana Kbit/s

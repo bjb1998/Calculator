@@ -2,31 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0a196c-4fcd-488c-905f-757dcdc7e849" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tests/Controller/GenericBitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Controller/GenericEquationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Model/BinaryCalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Model/BitTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Model/BitrateCalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Model/HexCalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/GenericBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/BinaryCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/BitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/BitrateCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calculations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Inputs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/BinaryCalcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/BitrateCalcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/HexCalcTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BinaryCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$getter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$getter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$speedType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc$unitType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$ProblemType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$sizeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$speedType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$timeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead$unitType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/BitrateCalcOverhead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO$ProblemType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic$ProblemType.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Generic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/HexCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/IPCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/IPCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/META-INF/bjb1998-Calculator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bjb1998-Calculator/greetingTemp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BinaryCalcTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalc$getter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead$ProblemType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead$sizeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead$speedType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead$timeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcOverhead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/BitrateCalcTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Calculations.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/FileIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic$ProblemType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/HexCalc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/HexCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/HexCalcTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Inputs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HexCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HexCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/bjb1998-Calculator/META-INF/bjb1998-Calculator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitrateCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitrateCalcOverhead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/GenericEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HexCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/HexCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viewer/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +89,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -45,23 +98,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iKvTA3qTYO9zOAabyVhBBR7dzT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="calculator" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Tests" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Tests/Model" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Model" />
+      <recent name="Controller" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -74,22 +138,16 @@
       <recent name="C:\Users\eddie\Desktop\My Stuff\School Crap\College\UW\Fall 2020\TCSS 305A\Projects\Calculator\.idea" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in bjb1998-Calculator">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Viewer.Main" />
       <module name="bjb1998-Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Viewer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,31 +160,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HexCalcTest.calcResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BitrateCalcTest.calcDataUnits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bjb1998-Calculator" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
-      <option name="METHOD_NAME" value="calcResult" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.BitrateCalcTest" />
+      <option name="METHOD_NAME" value="calcDataUnits" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HexCalcTest.toDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BitrateCalcTest.calcUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bjb1998-Calculator" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
-      <option name="METHOD_NAME" value="toDecimal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.BitrateCalcTest" />
+      <option name="METHOD_NAME" value="calcUpload" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HexCalcTest.toHex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BitrateCalcTest.calcWebsite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bjb1998-Calculator" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HexCalcTest" />
-      <option name="METHOD_NAME" value="toHex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model" />
+      <option name="MAIN_CLASS_NAME" value="Model.BitrateCalcTest" />
+      <option name="METHOD_NAME" value="calcWebsite" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,14 +210,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in bjb1998-Calculator" />
-        <item itemvalue="JUnit.HexCalcTest.calcResult" />
-        <item itemvalue="JUnit.HexCalcTest.toDecimal" />
-        <item itemvalue="JUnit.HexCalcTest.toHex" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BitrateCalcTest.calcWebsite" />
+        <item itemvalue="JUnit.BitrateCalcTest.calcUpload" />
+        <item itemvalue="JUnit.BitrateCalcTest.calcDataUnits" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -153,6 +230,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601669102872</updated>
     </task>
+    <task id="LOCAL-00001" summary="made less shit">
+      <created>1602739775277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602739775277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,28 +245,100 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made less shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="made less shit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603732213817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603732213817" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1603479463512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603479463512" />
+    <state x="365" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603427881504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="365" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603427881504" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1603740258671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603740258671" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1603740258671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603740258671" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1603740258671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603740258671" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1603740258671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603740258671" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1603695982778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603695982778" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1603695982778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603695982778" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1603695982778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603695982778" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1603695982778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603695982778" />
+    <state x="1299" y="260" key="chooseDestDirectoryDialog" timestamp="1603687315347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1299" y="260" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603687315347" />
+    <state x="1247" y="166" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603687315356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1247" y="166" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603687315356" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603434729998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603434729998" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BitrateCalcOverhead.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="15" />
+          <url>file://$PROJECT_DIR$/src/Model/BitrateCalc.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BitrateCalc.java</url>
-          <line>290</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/Model/BitType.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Tests/Model/BitrateCalcTest.java</url>
+          <line>15</line>
+          <properties field="dataResult" class="Model.BitrateCalcTest" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Model.BitType" memberName="myTimeType" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
